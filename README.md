@@ -1,2 +1,2 @@
 # BaekJoon
-Algorithm
+Algorithm Practice Repository
